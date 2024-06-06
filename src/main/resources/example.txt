@@ -1,0 +1,2 @@
+This is an example file. When startign the program, you will be prompted to enter yourtext.
+Then it will be added to turing machine and later ciphered with Caesar's Cipher and added as a pair to json handler.
