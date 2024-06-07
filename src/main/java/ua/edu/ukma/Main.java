@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        boolean cyphering = true;
         String input;
         TuringMachine tm = new TuringMachine(20);
         System.out.println(tm.toString());

@@ -1,5 +1,5 @@
 plugins {
-    id("java")
+    id("java-library")
 }
 
 group = "ua.edu.ukma"
